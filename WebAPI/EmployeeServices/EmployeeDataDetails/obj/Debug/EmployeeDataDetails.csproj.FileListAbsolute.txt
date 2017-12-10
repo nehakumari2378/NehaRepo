@@ -1,0 +1,12 @@
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EmployeeDB.mdf
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EmployeeDB_log.ldf
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EmployeeDataDetails.dll.config
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EmployeeDataDetails.dll
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EmployeeDataDetails.pdb
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EntityFramework.dll
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EntityFramework.SqlServer.dll
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EntityFramework.xml
+E:\EmployeeServices\EmployeeDataDetails\bin\Debug\EntityFramework.SqlServer.xml
+E:\EmployeeServices\EmployeeDataDetails\obj\Debug\EmployeeDataDetails.csprojResolveAssemblyReference.cache
+E:\EmployeeServices\EmployeeDataDetails\obj\Debug\EmployeeDataDetails.dll
+E:\EmployeeServices\EmployeeDataDetails\obj\Debug\EmployeeDataDetails.pdb
